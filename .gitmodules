@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/guighm/hotel-booking-app-laravel.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/guighm/hotel-booking-app-react.git
